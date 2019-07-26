@@ -18,7 +18,7 @@ if (!is_null($events['Detect'])) {
 	
 	send_LINE($events['Detect']);
 		
-	echo "OK";
+	echo "OK Detect";
 	}
 if (!is_null($events['events'])) {
 	echo "line bot";
